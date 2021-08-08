@@ -9,3 +9,7 @@ $ php visit.or
 </pre>
 
 http://yesa124.blogspot.com/2021/08/website.html
+
+# TUTORIAL TERMUX
+<pre>
+$ 
